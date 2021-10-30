@@ -1,3 +1,3 @@
 # DeepLink
-Deep Link Android Test for Android (Native)
+Deep Link Test for Android (Native/Java)
 
