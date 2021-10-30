@@ -1,2 +1,3 @@
 # DeepLink
-Deep Link Android Test for Event Desu
+Deep Link Android Test for Android (Native)
+
